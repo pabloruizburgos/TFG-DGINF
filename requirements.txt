@@ -1,0 +1,11 @@
+# Pipeline RAG — Alergología clínica
+# Instalar con: pip install -r requirements.txt
+
+# API de Claude (extracción LLM — Stage 4)
+anthropic>=0.40.0
+
+# HTTP (Stage 0: Europe PMC, Unpaywall; Stage 1: GROBID)
+requests>=2.31.0
+
+# Validación JSON Schema (Stage 5)
+jsonschema>=4.21.0
