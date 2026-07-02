@@ -1,5 +1,4 @@
-# TFG-DGINF
-# Pipeline RAG para extracción estructurada en alergología clínica
+# TFG-DGINF | Extracción automatizada de datos clínicos en alergología mediante RAG y grandes modelos de lenguaje
 
 *Trabajo de fin de grado en Ingeniería Informática por CUNEF Universidad (curso 2025-2026).*
 
