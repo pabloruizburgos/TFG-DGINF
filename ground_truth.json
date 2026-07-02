@@ -1,0 +1,49 @@
+{
+  "corpus_version": "v1.0",
+  "domain": "alergologia_clinica_estudios_intervencion",
+  "selection_criteria": {
+    "source": "Europe PMC",
+    "access": "open access",
+    "study_types": ["randomized_controlled_trial", "prospective_cohort", "retrospective_cohort"],
+    "topics": ["allergic_rhinitis", "asthma", "food_allergy", "drug_allergy", "immunotherapy", "atopic_dermatitis"]
+  },
+  "articles": [
+    {
+      "_comment": "PLANTILLA — duplicar y rellenar para cada artículo del corpus",
+      "article_id": "PMID:XXXXXXXX",
+      "title": "",
+      "year": null,
+      "doi": "",
+      "annotator": "",
+      "annotation_date": "",
+      "abstract_ground_truth": {
+        "study_type": "",
+        "study_design_temporality": "",
+        "sample_size_estimated": null,
+        "main_topic": "",
+        "clinical_focus": ""
+      },
+      "table_ground_truth": {
+        "population_description": "",
+        "n_total": null,
+        "primary_outcome": {
+          "variable_name": "",
+          "measure_type": "",
+          "measure_value": null,
+          "unit": null,
+          "confidence_interval": null,
+          "p_value": null
+        },
+        "between_group_comparison": {
+          "groups_compared": "",
+          "effect_measure": "",
+          "effect_value": null,
+          "confidence_interval": null,
+          "p_value": null,
+          "statistically_significant": null
+        }
+      },
+      "notes": ""
+    }
+  ]
+}
