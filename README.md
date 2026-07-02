@@ -1,4 +1,4 @@
-# TFG-DGINF | *Extracción automatizada de datos estructurados clínicos en alergología mediante RAG y grandes modelos de lenguaje*
+# TFG-DGINF | *Extracción automatizada de datos clínicos estructurados en alergología mediante RAG y grandes modelos de lenguaje*
 
 *Trabajo de fin de grado en Ingeniería Informática por CUNEF Universidad (curso 2025-2026).*
 
